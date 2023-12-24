@@ -1,0 +1,11 @@
+body{
+    width: 100%;
+    height: 1000px;
+    background: linear-gradient(to bottom right, #000, #2073c2 60%, #dff6ff);
+    overflow: hidden;
+}
+span{
+    display: block;
+    position: absolute;
+    border-radius: 50%;
+}
